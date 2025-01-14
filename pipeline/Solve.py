@@ -17,8 +17,8 @@ sketch_of_the_apartment(list(set([(17,1), (17,2), (17,3), (17,4), (17,5), (17,6)
 
 print("Schematy mieszkania stworzone!")
 
-file_path_1 = "C:/Users/Lenovo/Desktop/Physical constants.csv"
-file_path_2 = "C:/Users/Lenovo/Desktop/Outside temperatures in Wroclaw (3 types of days).csv"
+file_path_1 = "C:/Users/Lenovo/Documents/GitHub/ciep-o_w_mieszkaniu/data/Physical constants.csv"
+file_path_2 = "C:/Users/Lenovo/Documents/GitHub/ciep-o_w_mieszkaniu/data/Outside temperatures in Wroclaw (3 types of days).csv"
 
 density = 0
 
@@ -181,7 +181,7 @@ Experiment_with_a_knob.twelve_heat_maps_over_time(converting_hours_into_iteratio
                                                   ['15:05', '15:10', '15:15', 
                                                    '15:20', '15:25', '15:30',
                                                    '15:35', '15:40', '15:45', 
-                                                   '15:50', '15:55', '15:00'], 
+                                                   '15:50', '15:55', '16:00'], 
                                                    'Zmiana temperatury po powrocie i zmianie mocy grzania (bardzo zimny dzień i zmiana ogrzewania na 2).png')
 
 # Wykres energii
@@ -210,7 +210,7 @@ Experiment_with_a_knob.twelve_heat_maps_over_time(converting_hours_into_iteratio
                                                   ['15:05', '15:10', '15:15', 
                                                    '15:20', '15:25', '15:30',
                                                    '15:35', '15:40', '15:45', 
-                                                   '15:50', '15:55', '15:00'], 
+                                                   '15:50', '15:55', '16:00'], 
                                                    'Zmiana temperatury po powrocie i zmianie mocy grzania (bardzo zimny dzień i zmiana ogrzewania na 1).png')
 
 # Wykres energii
@@ -239,7 +239,7 @@ Experiment_with_a_knob.twelve_heat_maps_over_time(converting_hours_into_iteratio
                                                   ['15:05', '15:10', '15:15', 
                                                    '15:20', '15:25', '15:30',
                                                    '15:35', '15:40', '15:45', 
-                                                   '15:50', '15:55', '15:00'], 
+                                                   '15:50', '15:55', '16:00'], 
                                                    'Zmiana temperatury po powrocie i zmianie mocy grzania (bardzo zimny dzień i brak ogrzewania).png')
 
 # Wykres energii
@@ -270,7 +270,7 @@ Experiment_with_a_knob.twelve_heat_maps_over_time(converting_hours_into_iteratio
                                                   ['15:05', '15:10', '15:15', 
                                                    '15:20', '15:25', '15:30',
                                                    '15:35', '15:40', '15:45', 
-                                                   '15:50', '15:55', '15:00'], 
+                                                   '15:50', '15:55', '16:00'], 
                                                    'Zmiana temperatury po powrocie i zmianie mocy grzania (zimny dzień i zmiana ogrzewania na 2).png')
 
 # Wykres energii
@@ -299,7 +299,7 @@ Experiment_with_a_knob.twelve_heat_maps_over_time(converting_hours_into_iteratio
                                                   ['15:05', '15:10', '15:15', 
                                                    '15:20', '15:25', '15:30',
                                                    '15:35', '15:40', '15:45', 
-                                                   '15:50', '15:55', '15:00'], 
+                                                   '15:50', '15:55', '16:00'], 
                                                    'Zmiana temperatury po powrocie i zmianie mocy grzania (zimny dzień i zmiana ogrzewania na 1).png')
 
 # Wykres energii
@@ -328,7 +328,7 @@ Experiment_with_a_knob.twelve_heat_maps_over_time(converting_hours_into_iteratio
                                                   ['15:05', '15:10', '15:15', 
                                                    '15:20', '15:25', '15:30',
                                                    '15:35', '15:40', '15:45', 
-                                                   '15:50', '15:55', '15:00'], 
+                                                   '15:50', '15:55', '16:00'], 
                                                    'Zmiana temperatury po powrocie i zmianie mocy grzania (zimny dzień i brak ogrzewania).png')
 
 # Wykres energii
@@ -359,7 +359,7 @@ Experiment_with_a_knob.twelve_heat_maps_over_time(converting_hours_into_iteratio
                                                   ['15:05', '15:10', '15:15', 
                                                    '15:20', '15:25', '15:30',
                                                    '15:35', '15:40', '15:45', 
-                                                   '15:50', '15:55', '15:00'], 
+                                                   '15:50', '15:55', '16:00'], 
                                                    'Zmiana temperatury po powrocie i zmianie mocy grzania (chłodny dzień i zmiana ogrzewania na 2).png')
 
 # Wykres energii
@@ -388,7 +388,7 @@ Experiment_with_a_knob.twelve_heat_maps_over_time(converting_hours_into_iteratio
                                                   ['15:05', '15:10', '15:15', 
                                                    '15:20', '15:25', '15:30',
                                                    '15:35', '15:40', '15:45', 
-                                                   '15:50', '15:55', '15:00'], 
+                                                   '15:50', '15:55', '16:00'], 
                                                    'Zmiana temperatury po powrocie i zmianie mocy grzania (chłodny dzień i zmiana ogrzewania na 1).png')
 
 # Wykres energii
@@ -417,7 +417,7 @@ Experiment_with_a_knob.twelve_heat_maps_over_time(converting_hours_into_iteratio
                                                   ['15:05', '15:10', '15:15', 
                                                    '15:20', '15:25', '15:30',
                                                    '15:35', '15:40', '15:45', 
-                                                   '15:50', '15:55', '15:00'], 
+                                                   '15:50', '15:55', '16:00'], 
                                                    'Zmiana temperatury po powrocie i zmianie mocy grzania (chłodny dzień i brak ogrzewania).png')
 
 # Wykres energii
