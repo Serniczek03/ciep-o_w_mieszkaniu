@@ -132,7 +132,7 @@ def sketch_of_the_apartment(radiators_location, file_title):
         ax.text(x, -y, room_name, fontsize=10, ha='center', va='center', color='black', fontweight='bold')
 
     plt.savefig(file_title)
-    #plt.show()
+    #plt.show() f
     plt.close()
     
 
